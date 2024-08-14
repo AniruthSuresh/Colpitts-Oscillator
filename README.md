@@ -18,7 +18,7 @@ To design, simulate, and construct a Colpitts Oscillator capable of generating s
 2. **Gain of the Oscillator:** A₁ = -C₁/C₂
 
 ### Implementation
-- Designed circuit using \(C_1 = C_2 = 1 \text{ nF}\) and \(L_3 = 5 \text{ μH}\)
+- Designed circuit using C₁ = C₂ = 1 nF and L₃ = 5 μH
 - **Expected frequency:** 3.2847 MHz
 - **Simulated frequency:** 3.7 MHz
 - **Hardware (DSO) frequency:** 3.83 MHz
