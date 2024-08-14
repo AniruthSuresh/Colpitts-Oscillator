@@ -12,15 +12,10 @@ To design, simulate, and construct a Colpitts Oscillator capable of generating s
 - LC oscillation circuit
 - Common Emitter Transistor configuration
 
+
 ### Design Considerations
-1. **Frequency of Oscillation:** 
-   \[
-   \omega = \sqrt{\frac{C_1 + C_2}{C_1 C_2 L_3}}
-   \]
-2. **Gain of the Oscillator:** 
-   \[
-   A_1 = -\frac{C_1}{C_2}
-   \]
+1. **Frequency of Oscillation:** ω = √((C₁ + C₂) / (C₁C₂L₃))
+2. **Gain of the Oscillator:** A₁ = -C₁/C₂
 
 ### Implementation
 - Designed circuit using \(C_1 = C_2 = 1 \text{ nF}\) and \(L_3 = 5 \text{ μH}\)
